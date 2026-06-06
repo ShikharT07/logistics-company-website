@@ -13,3 +13,4 @@ function Quote() {
 }
 
 export default Quote;
+<Footer />
